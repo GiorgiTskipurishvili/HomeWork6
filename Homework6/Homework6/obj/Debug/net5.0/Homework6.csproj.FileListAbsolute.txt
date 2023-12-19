@@ -13,3 +13,4 @@ C:\Users\User\OneDrive\Desktop\HomeWork6\Homework6\Homework6\obj\Debug\net5.0\re
 C:\Users\User\OneDrive\Desktop\HomeWork6\Homework6\Homework6\obj\Debug\net5.0\Homework6.pdb
 C:\Users\User\OneDrive\Desktop\HomeWork6\Homework6\Homework6\obj\Debug\net5.0\Homework6.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\HomeWork6\Homework6\Homework6\obj\Debug\net5.0\ref\Homework6.dll
+C:\Users\User\OneDrive\Desktop\HomeWork6\Homework6\Homework6\obj\Debug\net5.0\Homework6.sourcelink.json
