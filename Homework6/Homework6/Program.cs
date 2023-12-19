@@ -126,6 +126,7 @@ namespace Homework6
             #endregion
 
             Console.ReadLine();
+
         }
     }
 }
